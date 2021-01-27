@@ -1,0 +1,2 @@
+# Website-with-Tableau-of-content
+I learnt tableau. After i reached one company, which was in big loss. That Company need one dash board in which they can see their whole data in graphical form. So i analyze their past data and try to implement whole table formed data into best graphical form. And after i crate one HTML CSS JS based website and put my all graphical files into "Business Analyze" Section. Guys Check My Website ASAP !!!!!
